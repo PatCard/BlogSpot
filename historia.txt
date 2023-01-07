@@ -2,4 +2,7 @@ Esta es una historia para usar git
 
 Por Patricio Cardenas H
 
+Para poder aplicar git en el futuro y asi hacerle seguimiento 
+a mis proyectos.
+
 06-01-2023
