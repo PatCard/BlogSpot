@@ -8,3 +8,5 @@ a mis proyectos.
 06-01-2023
 
 Los proyectos contendran archivo html o programas en C de ESP32 o microcontroladores
+
+Mas proyectos varios.
