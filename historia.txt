@@ -10,3 +10,5 @@ a mis proyectos.
 Los proyectos contendran archivo html o programas en C de ESP32 o microcontroladores
 
 Mas proyectos de distinta indole tal sistemas embebidos.
+
+Todo esto medida que vayamos adquiriendo mas conocimiento.
