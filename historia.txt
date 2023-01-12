@@ -9,4 +9,4 @@ a mis proyectos.
 
 Los proyectos contendran archivo html o programas en C de ESP32 o microcontroladores
 
-Mas proyectos varios.
+Mas proyectos de distinta indole.
